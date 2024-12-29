@@ -41,11 +41,11 @@ The dataset is sourced from the Kaggle competition: [Plant Pathology 2020 - FGVC
    - Fine-tuned a simple yet effective architecture.
    - Captured detailed hierarchical features for disease classification.
 
-## Results
-- **Softmax Regression**: Accuracy of ~44%.
-- **Random Forest**: Accuracy of ~71%.
-- **ResNet-50**: Achieved the highest accuracy of 86.81%.
-- **VGG-16**: Closely followed with an accuracy of 86.26%.
+## Intermediate Results
+- **Softmax Regression**: Accuracy of 77.0%.
+- **Random Forest**: Accuracy of 81.1%.
+- **ResNet-50**: Achieved the highest accuracy of 83.52%.
+- **VGG-16**: Closely followed with an accuracy of 86.81%.
 
 Both CNN models showed strong performance but struggled with the underrepresented "Multiple Diseases" class. Augmentation and class balancing are areas for improvement.
 
