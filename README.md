@@ -99,13 +99,6 @@ This study demonstrated the potential of combining traditional machine learning 
 
 ---
 
-## Roles  
-- **Arian Gharehmohammadzadehghashghaei:** Exploratory Data Analysis and Model Evaluation.  
-- **Laura Alejandra Moreno and Guillermo Bajo Laborda:** Machine Learning Models (Softmax, Random Forest).  
-- **Domenico Azzarito and Michele Pezza:** Deep Learning Models (CNNs - ResNet-50, VGG-16).  
-
----
-
 ## References  
 - Kaggle Dataset: [Plant Pathology 2020 - FGVC7](https://www.kaggle.com/competitions/plant-pathology-2020-fgvc7)  
 - Mohanty, Sharada P., David P. Hughes, and Marcel Salathé. "Using deep learning for image-based plant disease detection." Frontiers in plant science 7 (2016): 1419.  
